@@ -17,6 +17,8 @@
     }
   },
   "Test": {
-      "string": {"status": "OK!"}
+      "status": {
+        "string": "OK"
+      }
     }
 }
