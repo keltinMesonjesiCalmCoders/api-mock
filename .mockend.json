@@ -14,9 +14,9 @@
     },
     "address": {
       "string": {}
-    },
-    "test": {
+    }
+  },
+  "test": {
       "string": {"status": "OK!"}
     }
-  }
 }
