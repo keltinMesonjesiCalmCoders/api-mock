@@ -16,7 +16,7 @@
       "string": {}
     }
   },
-  "test": {
+  "Test": {
       "string": {"status": "OK!"}
     }
 }
